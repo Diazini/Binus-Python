@@ -39,7 +39,7 @@ employee1.setEmployee("Diaz", 5000)
 employee1.printEmployee()
 employee1.displayCount()
  
-employee2 = Employee("Salary",0)
+employee2 = Employee()
 employee2.setEmployee("Dimas", 10000)
 employee2.printEmployee()
 employee2.displayCount()
